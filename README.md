@@ -1,7 +1,7 @@
 # jenkins-kubernetes-example
 # pipeline : #
 
-## Below is jenkins pipeline to deploy on Kubernetes cluster
+## Below is jenkins pipeline to deploy on Kubernetes cluster: ##
 pipeline{
     agent any
     stages {
